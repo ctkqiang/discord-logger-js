@@ -23,7 +23,6 @@ export default class DicordLogger {
             content: (message),
         };
 
-        console.log(this.url)
         setTimeout(async function () {
             return axios({
                 method: ('POST'),
