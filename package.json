@@ -1,7 +1,7 @@
 {
   "name": "discord-logger",
   "version": "1.0.0",
-  "description": "A nodejs package for logging server or application output to discord channel",
+  "description": "A package for logging server or application output to discord channel",
   "main": "library/application.js",
   "type": "module",
   "scripts": {
@@ -17,8 +17,29 @@
     "webhook"
   ],
   "author": "John Melody Me<johnmelodyme@yandex.com>",
-  "license": "MIT",
+  "email" : "johnmelodyme@yandex.com",
+  "url": "https://github.com/johnmelodyme/discord-logger-js/issues",
+  "license": "MIT License",
   "dependencies": {
     "axios": "^0.22.0"
+  },
+   "funding": [
+     {
+      "type": "individual",
+      "url": "https://johnmelodyme.github.io/donate"
+    },
+    {
+      "type": "patreon",
+      "url": "https://www.patreon.com/johnmelodyme"
+    }
+  ],
+  "os": [
+    "darwin",
+    "win",
+    "linux"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/johnmelodyme/malaysian-courier.git"
   }
 }
