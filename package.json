@@ -1,6 +1,6 @@
 {
   "name": "discord-logger-js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A package for logging server or application output to discord channel",
   "main": "library/application.js",
   "type": "module",
@@ -32,11 +32,6 @@
       "type": "patreon",
       "url": "https://www.patreon.com/johnmelodyme"
     }
-  ],
-  "os": [
-    "darwin",
-    "win",
-    "linux"
   ],
   "repository": {
     "type": "git",
