@@ -1,6 +1,6 @@
 {
-  "name": "discord-logger",
-  "version": "1.0.0",
+  "name": "discord-logger-js",
+  "version": "1.0.1",
   "description": "A package for logging server or application output to discord channel",
   "main": "library/application.js",
   "type": "module",
