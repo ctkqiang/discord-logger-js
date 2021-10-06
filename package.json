@@ -1,6 +1,6 @@
 {
   "name": "discord-logger-js",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A package for logging server or application output to discord channel",
   "main": "library/application.js",
   "type": "module",
@@ -10,7 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "disord",
+    "discord",
     "logger",
     "server",
     "output",
