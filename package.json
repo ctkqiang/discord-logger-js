@@ -1,6 +1,6 @@
 {
   "name": "discord-logger-js",
-  "version": "1.0.4",
+  "version": "1.0.5*",
   "description": "A package for logging server or application output to discord channel",
   "main": "library/application.js",
   "type": "module",
@@ -35,6 +35,6 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/johnmelodyme/malaysian-courier.git"
+    "url": "https://github.com/johnmelodyme/discord-logger-js.git"
   }
 }
