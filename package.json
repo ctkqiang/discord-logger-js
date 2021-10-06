@@ -1,0 +1,24 @@
+{
+  "name": "discord-logger",
+  "version": "1.0.0",
+  "description": "A nodejs package for logging server or application output to discord channel",
+  "main": "library/application.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ./library/application.js",
+    "demo": "node ./demo/demo.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "disord",
+    "logger",
+    "server",
+    "output",
+    "webhook"
+  ],
+  "author": "John Melody Me<johnmelodyme@yandex.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.22.0"
+  }
+}
