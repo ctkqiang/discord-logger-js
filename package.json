@@ -21,7 +21,7 @@
   "url": "https://github.com/johnmelodyme/discord-logger-js/issues",
   "license": "MIT License",
   "dependencies": {
-    "axios": "^0.22.0"
+    "axios": "^1.6.0"
   },
    "funding": [
      {
